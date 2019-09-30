@@ -5,11 +5,11 @@
 	 width="648px" height="491px" viewBox="0 0 648 491" enable-background="new 0 0 648 491" xml:space="preserve">
 <path fill="#FFFFFF" stroke="#000000" stroke-width="11" stroke-linecap="square" stroke-miterlimit="10" d="M422,370"/>
 <path fill="#FFFFFF" stroke="#000000" stroke-width="11" stroke-linecap="square" stroke-miterlimit="10" d="M332,362"/>
-<path fill="#677BF4" stroke="#000000" stroke-width="11" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" d="
-	M285.221,206.996l33.022-16.539l-0.252-42.777l-33.614-6.801l-9.836-17.831l16.457-33.357l-29.406-26.483l-29.497,12.938
-	l-31.682-11.825l-10.137-29.055l-42.297,0.25l-11.306,32.54l-25.112,11.718L81.877,60.457l-35.297,38.9L71,118l-11.606,31.703
-	L25,150l-1.588,44l31.817,10.516l11.068,28.103L41,255l17,33l38-6l0,0l69.089,39L96,282L37,390c7.965,64.063,68,42,68,42l60.089-111
-	h35.738L207,289l30.667-11L260,293l39-31.641l-20.842-34.865L285.221,206.996z"/>
+<path fill="#677BF4" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-miterlimit="10" d="M285.221,206.996
+	l33.022-16.539l-0.252-42.777l-33.614-6.801l-9.836-17.831l16.457-33.357l-29.406-26.483l-29.497,12.938l-31.682-11.825
+	l-10.137-29.055l-42.297,0.25l-11.306,32.54l-25.112,11.718L81.877,60.457l-35.297,38.9L71,118l-11.606,31.703L25,150l-1.588,44
+	l31.817,10.516l11.068,28.103L41,255l17,33l38-6l0,0l69.089,39L96,282L37,390c7.965,64.063,68,42,68,42l60.089-111h35.738L207,289
+	l30.667-11L260,293l39-31.641l-20.842-34.865L285.221,206.996z"/>
 <rect x="175.75" y="328" fill="none" width="439.25" height="99"/>
 <text transform="matrix(1.0026 0 0 1 175.75 394.9756)" font-family="'ArialRoundedMTBold'" font-size="92">roGestion</text>
 <path fill="#677BF4" stroke="#000000" stroke-width="11" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" d="
@@ -18,7 +18,7 @@
 	M175.75,194"/>
 <path fill="#F7F7F9" stroke="#000000" stroke-width="11" stroke-linecap="square" stroke-linejoin="round" stroke-miterlimit="10" d="
 	M451,171"/>
-<path fill="#FFFFFF" stroke="#000000" stroke-width="11" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+<path fill="#FFFFFF" stroke="#000000" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 	M161.311,112.925l-54.734,125.296c0,0,45.588,36.836,91.621,17.555c46.037-19.281,40.66-75.344,37.414-88.698
 	C232.367,153.725,214.97,122.251,161.311,112.925z"/>
 </svg>
